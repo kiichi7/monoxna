@@ -1,0 +1,27 @@
+2012-01-19 Lars Magnusson <lavima@gmail.com>
+ * Included patch by panzer1996@gmail.com
+
+2011-12-22 Lars Magnusson <lavima@gmail.com>
+ * Changed runtime to Mono/.NET 40
+ * Added patch by ggulati@live.com
+ * Fixed build error in MonoDevelop.Xna addin
+
+2011-05-24 Lars Magnusson <lavima@gmail.com>
+ * Changed the xbuild references
+
+2011-05-23 Lars Magnusson <lavima@gmail.com>
+ * Started work on the content compilers
+ * Minor refactoring in the content readers
+
+2011-05-21 Lars Magnusson <lavima@gmail.com>
+ * This is now the only place for commenting changes.  
+
+2007-01-06 Rob Loach <http://www.robloach.net>
+ * Pong example (builds but doesn't run)
+
+2006-11-03  C.J. Adams-Collier  <cjcollier@colliertech.org>
+ * ChangeLog
+ * Created initial log entry; please add items to this file in
+   roughly this format when you make major changes.  Small things
+   will be fine without an entry here if you add an entry when 
+   commiting to the repository
